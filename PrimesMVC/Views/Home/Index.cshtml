@@ -1,0 +1,48 @@
+﻿@model IList<int>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Prime Numbers with ASP .NET MVC4</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+        <style type="text/css">
+            body {
+                background-color:lightblue;
+                font-family: Verdana, Arial;
+                margin: 50px;
+            }
+
+            form {
+                padding: 10px;
+                border-style: solid;
+                width: 250px;
+            }
+        </style>
+        <h2>Prime Numbers with ASP .NET MVC4</h2>
+        <p>Enter two numbers From number and Until number and click <strong>Find</strong>.</p>
+        <form action="" method="post">
+            <p>
+                <label for="text1">From Number:</label>
+                <input type="text" name="text1" />
+            </p>
+            <p>
+                <label for="text2">Until Number:</label>
+                <input type="text" name="text2" />
+            </p>
+            <p><input type="submit" value="Find" /></p>
+        </form>
+
+        <h3>Primes numbers found</h3>
+
+        <ul>
+            @foreach (var primitos in Model)
+            {
+              <text> --></text> @primitos 
+            }
+        </ul>
+
+</body>
+</html>
+
