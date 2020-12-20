@@ -1,6 +1,6 @@
 <!-- Basic MVC app ASP .NET MVC 4 -->
 
-# Basic MVC
+# Primes MVC
 
 Building a basic MVC app with Visual Studio Express 2013 for Web
 
@@ -50,7 +50,7 @@ Contributions are what make the open source community such an amazing place to b
 
 - Juan Luis Felipe Rubio - Initial work - https://github.com/juanlufr
 
-- GitHub Link: [juanlufr/BasicMVC](https://github.com/juanlufr/PrimesMVC)
+- GitHub Link: [juanlufr/PrimesMVC](https://github.com/juanlufr/PrimesMVC)
 
 - Spanish explanation about it in Blog: https://juanlucodingbinding.wordpress.com/2014/03/11/aspnet-mvc4-primes/
 
