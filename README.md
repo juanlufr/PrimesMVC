@@ -50,9 +50,9 @@ Contributions are what make the open source community such an amazing place to b
 
 - Juan Luis Felipe Rubio - Initial work - https://github.com/juanlufr
 
-- GitHub Link: [juanlufr/BasicMVC](https://github.com/juanlufr/BasicMVC)
+- GitHub Link: [juanlufr/BasicMVC](https://github.com/juanlufr/PrimesMVC)
 
-- Spanish explanation about it in Blog: https://juanlucodingbinding.wordpress.com/2014/03/06/modelo-mvc-ejemplo-basico-de-mvc-en-asp-net-mvc-4/
+- Spanish explanation about it in Blog: https://juanlucodingbinding.wordpress.com/2014/03/11/aspnet-mvc4-primes/
 
 - E-mail: juanluis.feliperubio@gmail.com
 
