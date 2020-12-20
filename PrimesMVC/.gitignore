@@ -362,9 +362,9 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # App automatic files - files created in automatic mode
-PrimesMVC/App_Start/*
-PrimesMVC/Content/*
-PrimesMVC/Filters/*
-PrimesMVC/Images/*
-PrimesMVC/Properties/*
-PrimesMVC/Scripts/*
+PrimesMVC/PrimesMVC/App_Start/*
+PrimesMVC/PrimesMVC/Content/*
+PrimesMVC/PrimesMVC/Filters/*
+PrimesMVC/PrimesMVC/Images/*
+PrimesMVC/PrimesMVC/Properties/*
+PrimesMVC/PrimesMVC/Scripts/*
